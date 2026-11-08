@@ -47,13 +47,13 @@ An AI-powered document extraction and understanding platform.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=namananand644&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=namananand644-test&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namananand644&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namananand644-test&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=namananand644&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=namananand644-test&theme=tokyonight&hide_border=true" />
 
 </div>
 
