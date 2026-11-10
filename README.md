@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Naman Anand" width="100%" />
+<img src="hero.svg" alt="Naman Anand" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+with+Python+%26+JavaScript;Exploring+AWS+%26+Cloud+Architecture;Turning+Ideas+into+Real+Products" />
 
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/followers/namananand644-test?style=for-the-badge&logo=github&color=181717" />
 <img src="https://img.shields.io/github/stars/namananand644-test?style=for-the-badge&logo=github&color=f5c542" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 </div>
 
@@ -18,13 +18,13 @@
 
 ### 💻 &nbsp;About Me
 
-<img src="assets/terminal.svg" alt="Terminal" width="85%" />
+<img src="terminal.svg" alt="Terminal" width="85%" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### 🧊 &nbsp;Tech Stack
 
-<img src="assets/skills.svg" alt="Skills" width="90%" />
+<img src="skills.svg" alt="Skills" width="90%" />
 
 <br/>
 
@@ -37,13 +37,13 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### 🏙️ &nbsp;3D Contribution City
 
 <img src="https://raw.githubusercontent.com/namananand644-test/namananand644-test/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### 📊 &nbsp;GitHub Stats
 
@@ -62,7 +62,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=namananand644-test&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### 🐍 &nbsp;Contribution Snake
 
@@ -71,7 +71,7 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/namananand644-test/namananand644-test/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="assets/divider.svg" width="100%" />
+<img src="divider.svg" width="100%" />
 
 ### 🌐 &nbsp;Connect
 
@@ -83,6 +83,6 @@
 
 **⚡ Keep Building. Keep Learning. Keep Growing.**
 
-<img src="assets/footer.svg" width="100%" />
+<img src="footer.svg" width="100%" />
 
 </div>
